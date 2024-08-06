@@ -1,10 +1,8 @@
 ### Hi there, I'm Mayra 👋
 
-- 🌱 I'm currently an Android Developer at Restaurant365
-- 🤔 I’m interested in learning about Machine Learning and AI
-- 😄 Pronouns: she/her/hers
-- 🇲🇽/🇺🇸 I'm Mexican-American
-- ⚡ Fun fact: I love retail therapy!
+🌱 Currently an Android Developer at Restaurant365
+🤔 Interested in learning about Machine Learning and AI
+🇲🇽/🇺🇸 Mexican-American
 
 ### 💬 More of me here:
 <a href="https://www.linkedin.com/in/mayra-vazquez-sanchez/">
