@@ -1,8 +1,8 @@
 ### Hi there, I'm Mayra 👋
 
-🌱 Currently an Android Developer at Restaurant365
-🤔 Interested in learning about Machine Learning and AI
-🇲🇽/🇺🇸 Mexican-American
+- 🌱 Currently an Android Developer at Restaurant365
+- 🤔 Interested in learning about Machine Learning and AI
+- 🇲🇽/🇺🇸 Mexican-American
 
 ### 💬 More of me here:
 <a href="https://www.linkedin.com/in/mayra-vazquez-sanchez/">
