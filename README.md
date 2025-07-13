@@ -1,6 +1,6 @@
 ### Hi there, I'm Mayra 👋
 
-- 🌱 Currently an Android Developer at Restaurant365
+- 🌱 ~3 years of Android Development experience
 - 🤔 Interested in learning about Machine Learning and AI
 - 🇲🇽/🇺🇸 Mexican-American
 
