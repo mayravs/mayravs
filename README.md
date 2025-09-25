@@ -1,11 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FFFFFE&lines=Hi+I'm+Mayra;Android+Developer;Latina+in+Tech)](https://git.io/typing-svg) 
 
 ### 💡 A Little About Me
-- 🌱 Currently seeking Android developer roles
-- 💫 Most recently worked at Restaurant365 as an Android Developer
-- 👜 Vintage Coach bag collector & restorer
+🌱 Currently seeking Android developer roles
 
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+💫 Most recently worked at Restaurant365 as an Android Developer
+
+👜 Vintage Coach bag collector & restorer
+
+****
 
 ## 🛠️ Skills & Tools
 
